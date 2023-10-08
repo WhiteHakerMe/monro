@@ -1,0 +1,18 @@
+@font-face {
+    font-family:"Clicker-Regular";
+    src: url(../fonts/ClickerScript-Regular.ttf);
+}
+
+@font-face {
+    font-family:"Playfair-Medium";
+    src: url(../fonts/PlayfairDisplay-Medium.ttf);
+}
+
+@font-face {
+    font-family:"Playfair-Regular";
+    src: url(../fonts/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: "Playfair-Bold";
+    src: url(../fonts/PlayfairDisplay-Bold.ttf);
+}

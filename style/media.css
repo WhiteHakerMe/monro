@@ -1,0 +1,16 @@
+@media (max-width:1356px), (max-width:1200px), (max-width:920px) {
+    .header-nav_link {
+        font-size: 14px;
+
+    }
+    .logo-title {
+        font-size: 32px;
+        display: flex;
+        justify-content: center;
+        margin-right: -300px ;
+    }
+    .header-nav {
+        padding: 0;
+        margin: 0 auto;
+    }
+}
